@@ -13,6 +13,13 @@
       "role": "reseller",
       "durasi": "Permanent",
       "id": 1773129445056
+    },
+    {
+      "username": "seller",
+      "password": "sellerpanel",
+      "role": "reseller",
+      "durasi": "Permanent",
+      "id": 1774323210517
     }
   ]
 }
